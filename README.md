@@ -1,1 +1,1 @@
-# IT302-esm33-Exercises1-Frontend
+# movie_reviews_frontend
